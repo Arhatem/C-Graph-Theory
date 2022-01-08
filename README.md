@@ -1,5 +1,6 @@
 # DataStr.Project
-
+The project aims at implementing algorithms based on graph theory to compute the degree centrality, closing centrality
+and betweenness centrality for each node in the graph.
 
 Abdullah Fathy: 
                    
